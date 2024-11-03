@@ -76,50 +76,40 @@ function rgb2hex(rgb) {
 $(function() {
         var bookmark = {
             data: [{
-                name: '开发日志',
-                link: 'https://kksan.top/f5404b68deeb4634b39dac0bc67ec693',
+                name: '聊天网站',
+                link: 'https://chat.fwiceman.site/',
                 box_shadow: '#F18033',
-                icon: 'img/log.png',
+                icon: 'img/OIP-C.png',
             }, {
-                name: '酷安',
-                link: 'https://www.coolapk.com',
+                name: '会议网站',
+                link: 'https://call.fwiceman.site/',
                 box_shadow: '#11B063',
-                icon: 'img/coolapk.png',
+                icon: 'img/jitsi.png',
             }, {
-                name: 'Via插件',
-                link: 'http://via-app.cn',
-                box_shadow: '#FA7199',
-                icon: 'img/via.png',
+                name: 'ai聊天',
+                link: 'https://ai.fwiceman.site/',
+                box_shadow: '#2C2C2C',
+                icon: 'img/favicon.png',
             }, {
                 name: '今日热榜',
                 link: 'https://tophub.today/',
                 box_shadow: '#F2584A',
                 icon: 'img/headline.png',
+            },{
+                name: '哔哩哔哩',
+                link: 'https://www.bilibili.com/',
+                box_shadow: '#F2584A',
+                icon: 'img/bilibili-xs.png',
             }, {
                 name: '知乎',
                 link: 'https://www.zhihu.com/',
                 box_shadow: '#0078D8',
                 icon: 'img/zhihulogo.png',
             }, {
-                name: '小米商城',
-                link: 'https://m.mi.com/',
-                box_shadow: '#F57923',
-                icon: 'img/mi.png',
-            }, {
-                name: 'unsplash',
-                link: 'https://unsplash.com/',
-                box_shadow: '#2C2C2C',
-                icon: 'img/unsplash.png',
-            }, {
                 name: '豆瓣',
                 link: 'https://m.douban.com/',
                 box_shadow: '#37bf4c',
                 icon: 'img/douban.png',
-            }, {
-                name: '虎扑',
-                link: 'https://www.hupu.com/',
-                box_shadow: '#c01d2f',
-                icon: 'img/hupu.png',
             }, {
                 name: '斗鱼',
                 link: 'https://www.douyu.com/',
@@ -130,36 +120,11 @@ $(function() {
                 link: 'https://www.csdn.net/',
                 box_shadow: '#c5000a',
                 icon: 'img/csdn.png',
-            }, {
-                name: 'XDA',
-                link: 'https://www.xda-developers.com/',
-                box_shadow: '#AC6E2F',
-                icon: 'img/xda.png',
-            }, {
+            },  {
                 name: '少数派',
                 link: 'https://sspai.com/',
                 box_shadow: '#D7191A',
                 icon: 'img/sspai.png',
-            }, {
-                name: '小众软件',
-                link: 'https://www.appinn.com/',
-                box_shadow: '#3279ea',
-                icon: 'img/xiaozhong.png',
-            }, {
-                name: '数字尾巴',
-                link: 'https://www.dgtle.com/',
-                box_shadow: '#62677b',
-                icon: 'img/shuziweiba.png',
-            }, {
-                name: '疫情跟踪',
-                link: 'https://app.21jingji.com/html/2020yiqing/',
-                box_shadow: '#7C5DC7',
-                icon: 'img/ding.png',
-            }, {
-                name: '疫情辟谣',
-                link: 'https://vp.fact.qq.com/home',
-                box_shadow: '#00A0E9',
-                icon: 'img/true.png',
             }]
         }
         for (var i = 0; i < bookmark.data.length; i++) {

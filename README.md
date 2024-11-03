@@ -11,9 +11,9 @@
 
 ------------
 
-地址：[点击跳转](https://nav.kksan.top/)
+地址：[点击跳转](https://www.fwiceman.site/)
 
-⭐更新日志：[点击跳转](https://kksan.top/f5404b68deeb4634b39dac0bc67ec693)⭐
+⭐更新日志：[点击跳转](https://kksan.top/f5404b68deeb4634b39dac0bc67ec693)⭐（原作者地址已不能访问）
 
 #### 如何使用
 
@@ -21,7 +21,7 @@
 
 选择download as zip方式下载或者clone到本地：
 ```
-git colne https://github.com/FW-ICEMAN/aNavigation
+git clone https://github.com/FW-ICEMAN/aNavigation
 ```
 
 #### 响应式
