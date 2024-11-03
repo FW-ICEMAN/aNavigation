@@ -91,6 +91,11 @@ $(function() {
                 box_shadow: '#2C2C2C',
                 icon: 'img/favicon.png',
             }, {
+                name: '我的云盘',
+                link: 'http://47.100.51.141:5244/',
+                box_shadow: '#fe7700',
+                icon: 'img/AList-Docs.png',
+            }, {
                 name: '今日热榜',
                 link: 'https://tophub.today/',
                 box_shadow: '#F2584A',
@@ -110,11 +115,6 @@ $(function() {
                 link: 'https://m.douban.com/',
                 box_shadow: '#37bf4c',
                 icon: 'img/douban.png',
-            }, {
-                name: '斗鱼',
-                link: 'https://www.douyu.com/',
-                box_shadow: '#fe7700',
-                icon: 'img/douyu.png',
             }, {
                 name: 'CSDN',
                 link: 'https://www.csdn.net/',
